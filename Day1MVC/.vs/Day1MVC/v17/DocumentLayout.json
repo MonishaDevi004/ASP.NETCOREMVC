@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\views\\department\\getdepartmentbybatchstrength.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\views\\department\\getdepartmentbybatchstrength.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\views\\department\\getdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\views\\department\\getdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\models\\deparment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\models\\deparment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\views\\demo\\displayname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\views\\demo\\displayname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|d:\\onlinetraining\\banumam\\day1mvc\\day1mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5BA06-CD00-4B94-A641-C596EC9C556E}|Day1MVC\\Day1MVC.csproj|solutionrelative:day1mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDepartmentByBatchStrength.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "RelativeDocumentMoniker": "Day1MVC\\Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "RelativeToolTip": "Day1MVC\\Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T08:47:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDepartment.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Views\\Department\\GetDepartment.cshtml",
+              "RelativeDocumentMoniker": "Day1MVC\\Views\\Department\\GetDepartment.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Views\\Department\\GetDepartment.cshtml",
+              "RelativeToolTip": "Day1MVC\\Views\\Department\\GetDepartment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T08:37:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day1MVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day1MVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:52:13.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deparment.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Models\\Deparment.cs",
+              "RelativeDocumentMoniker": "Day1MVC\\Models\\Deparment.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Models\\Deparment.cs",
+              "RelativeToolTip": "Day1MVC\\Models\\Deparment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:50:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayName.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Views\\Demo\\DisplayName.cshtml",
+              "RelativeDocumentMoniker": "Day1MVC\\Views\\Demo\\DisplayName.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Views\\Demo\\DisplayName.cshtml",
+              "RelativeToolTip": "Day1MVC\\Views\\Demo\\DisplayName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T06:46:22.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day1MVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Models\\Employee.cs",
+              "RelativeToolTip": "Day1MVC\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:42:27.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Day1MVC\\Controllers\\DemoController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Day1MVC\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:33:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day1MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day1MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:32:20.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Day1MVC\\Program.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\Day1MVC\\Day1MVC\\Program.cs",
+              "RelativeToolTip": "Day1MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:49:17.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

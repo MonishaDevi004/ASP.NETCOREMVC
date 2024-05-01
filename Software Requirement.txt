@@ -1,0 +1,21 @@
+Visual Studio 2019
+
+Downloads
+
+https://visualstudio.microsoft.com/downloads/
+
+Step by Step procedure install VS2019
+
+https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019
+
+https://www.tektutorialshub.com/visual-studio/how-to-download-and-install-visual-studio-2019/
+---------------------------------------------------------------
+
+Sqlserver
+
+https://www.microsoft.com/en-in/sql-server/sql-server-downloads
+
+Step by Step procedure 
+
+https://learnsql.com/blog/how-to-install-sql-server-2017-windows/
+

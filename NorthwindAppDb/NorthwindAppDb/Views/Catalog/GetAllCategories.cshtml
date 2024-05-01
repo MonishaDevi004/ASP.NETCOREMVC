@@ -1,0 +1,14 @@
+﻿@model IEnumerable<NorthwindAppDb.Models.Category>
+@{
+    ViewData["Title"] = "GetAllCategories";
+}
+
+<h1>GetAllCategories</h1>
+
+@foreach(var item in Model)
+{
+    <li> @item.CategoryId</li>
+    <li>@item.CategoryName</li>
+    <li>@item.Description</li>
+    <br />
+}
