@@ -6,5 +6,11 @@ namespace NorthwindAppDb.Repository
     {
 
         Task<List<Category>> GetCategory();
+
+        Task<Category> GetCategoryById(int id);
+
+      
+
+
     }
 }

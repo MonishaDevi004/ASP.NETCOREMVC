@@ -19,6 +19,16 @@ namespace NorthwindAppDb.Controllers
             return View(categories);
         }
 
+        //Model Binding
+        public async Task<IActionResult> GetCategoryById(int id)
+        {
+            Category category = await _categoryRepository.GetCategoryById(id);
+            if(category != null)
+            {
+                return View(category);
+            }
+            else { return View(null); }
+        }
 
     }
 }

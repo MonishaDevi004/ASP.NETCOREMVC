@@ -19,5 +19,13 @@ namespace NorthwindAppDb.Repository
             return await _context.Categories.ToListAsync();
         }
 
+       public async Task<Category> GetCategoryById(int id)
+        {
+           Category category = await _context.Categories.FindAsync(id);
+            return category;
+        }
+
+       
+
     }
 }

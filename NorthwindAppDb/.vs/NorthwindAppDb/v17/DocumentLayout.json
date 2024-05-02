@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\views\\product\\getproductsupplierdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\views\\product\\getproductsupplierdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\views\\catalog\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\views\\catalog\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\repository\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\repository\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\repository\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\repository\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\repository\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\repository\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\northwindappdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\northwindappdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\views\\catalog\\getcategorybyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\views\\catalog\\getcategorybyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|d:\\onlinetraining\\banumam\\northwindappdb\\northwindappdb\\views\\catalog\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D28632-E9AA-4076-90F5-4C18FAEAED54}|NorthwindAppDb\\NorthwindAppDb.csproj|solutionrelative:northwindappdb\\views\\catalog\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,31 +54,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetAllCategories.cshtml",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
-              "RelativeToolTip": "NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Program.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Program.cs",
+              "RelativeToolTip": "NorthwindAppDb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:49:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProductSupplierDetails.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Product\\GetProductSupplierDetails.cshtml",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Views\\Product\\GetProductSupplierDetails.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Product\\GetProductSupplierDetails.cshtml",
+              "RelativeToolTip": "NorthwindAppDb\\Views\\Product\\GetProductSupplierDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T12:32:20.996Z"
+              "WhenOpened": "2024-05-02T04:48:32.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\ProductService.cs",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Repository\\ProductService.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\ProductService.cs",
+              "RelativeToolTip": "NorthwindAppDb\\Repository\\ProductService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:39:28.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NorthwindAppDb\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:36:34.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\Models\\Category.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Models\\Category.cs",
-              "RelativeToolTip": "NorthwindAppDb\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ICatagoryRepository.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
+              "RelativeToolTip": "NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:13:53.73Z"
+              "WhenOpened": "2024-04-30T12:08:21.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,94 +129,75 @@
               "RelativeDocumentMoniker": "NorthwindAppDb\\Repository\\CategoryService.cs",
               "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\CategoryService.cs",
               "RelativeToolTip": "NorthwindAppDb\\Repository\\CategoryService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:12:00.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Controllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\Controllers\\CatalogController.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Controllers\\CatalogController.cs",
-              "RelativeToolTip": "NorthwindAppDb\\Controllers\\CatalogController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:05:49.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Models\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\Models\\NorthwindContext.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Models\\NorthwindContext.cs",
-              "RelativeToolTip": "NorthwindAppDb\\Models\\NorthwindContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:03:20.077Z",
+              "WhenOpened": "2024-04-30T12:12:00.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Controllers\\CatalogController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "NorthwindAppDb\\Controllers\\CatalogController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:05:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "NorthwindAppDb\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:37:49.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllCategories.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
+              "RelativeToolTip": "NorthwindAppDb\\Views\\Catalog\\GetAllCategories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T12:32:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCategoryById.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Catalog\\GetCategoryById.cshtml",
+              "RelativeDocumentMoniker": "NorthwindAppDb\\Views\\Catalog\\GetCategoryById.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Views\\Catalog\\GetCategoryById.cshtml",
+              "RelativeToolTip": "NorthwindAppDb\\Views\\Catalog\\GetCategoryById.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:28:34.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\appsettings.json",
               "RelativeDocumentMoniker": "NorthwindAppDb\\appsettings.json",
               "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\appsettings.json",
               "RelativeToolTip": "NorthwindAppDb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-30T12:07:57.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Program.cs",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\Program.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Program.cs",
-              "RelativeToolTip": "NorthwindAppDb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:24:49.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICatagoryRepository.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
-              "RelativeToolTip": "NorthwindAppDb\\Repository\\ICatagoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:08:21.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NorthwindAppDb.csproj",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\NorthwindAppDb.csproj",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\NorthwindAppDb.csproj",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\NorthwindAppDb.csproj",
-              "RelativeToolTip": "NorthwindAppDb\\NorthwindAppDb.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-30T12:07:42.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "NorthwindAppDb\\Models\\Customer.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\NorthwindAppDb\\NorthwindAppDb\\Models\\Customer.cs",
-              "RelativeToolTip": "NorthwindAppDb\\Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:03:53.976Z"
+              "WhenOpened": "2024-04-30T12:07:57.063Z",
+              "EditorCaption": ""
             }
           ]
         }

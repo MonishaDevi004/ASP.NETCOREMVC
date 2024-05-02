@@ -13,6 +13,7 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("NorthwindConnect
 
 //DI Service Lifetime
 builder.Services.AddScoped<ICatagoryRepository, CategoryService>();
+builder.Services.AddScoped<IProductRepository,ProductService>();
 
 var app = builder.Build();
 

@@ -30,12 +30,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xHZXRBbGxDYXRlZ29yaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Catalog/GetCategoryById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xHZXRDYXRlZ29yeUJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Product/GetProductSupplierDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0U3VwcGxpZXJEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Shared/Error.cshtml]
