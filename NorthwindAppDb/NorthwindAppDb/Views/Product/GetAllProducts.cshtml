@@ -1,0 +1,14 @@
+﻿@model IEnumerable<NorthwindAppDb.Models.Product>
+@{
+    ViewData["Title"] = "GetAllProducts";
+}
+
+<h1>GetAllProducts</h1>
+
+@foreach(var item in Model)
+{
+    @item.ProductName
+    @item.Category.CategoryName
+    @item.Supplier.CompanyName
+    <br />
+}

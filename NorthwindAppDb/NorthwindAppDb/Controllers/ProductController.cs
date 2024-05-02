@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using NorthwindAppDb.Models;
 using NorthwindAppDb.Repository;
 using NorthwindAppDb.ViewModel;
 
@@ -42,6 +43,11 @@ namespace NorthwindAppDb.Controllers
 
         }
 
+        public async Task <IActionResult> GetAllProducts() {
+
+            List<Product> products = await productRepository.GetProducts();
+           return View(products);
+        }
 
     }
 }

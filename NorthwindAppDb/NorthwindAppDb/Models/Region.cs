@@ -9,5 +9,7 @@ public partial class Region
 
     public string RegionDescription { get; set; } = null!;
 
+    public string? Status { get; set; }
+
     public virtual ICollection<Territory> Territories { get; set; } = new List<Territory>();
 }

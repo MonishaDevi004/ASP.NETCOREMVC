@@ -69,17 +69,21 @@ public partial class NorthwindContext : DbContext
 
     public virtual DbSet<Test> Tests { get; set; }
 
-    //Stored Procedure
+    //Procedure
+
     public virtual DbSet<Ten_Most_Expensive_Products> Ten_Most_Expensive_Products { get; set; }
 
     public virtual DbSet<CustOrdersOrders> CustOrdersOrders { get; set; }
+
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         /*#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Server=DESKTOP-U8J1M3C\\MSSQLSERVER01;Database=Northwind;Trusted_Connection=True;Encrypt =Optional");
-        */
-    }
+    */
+        
+        }
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -496,6 +500,9 @@ public partial class NorthwindContext : DbContext
                 .HasColumnName("RegionID");
             entity.Property(e => e.RegionDescription)
                 .HasMaxLength(50)
+                .IsFixedLength();
+            entity.Property(e => e.Status)
+                .HasMaxLength(10)
                 .IsFixedLength();
         });
 

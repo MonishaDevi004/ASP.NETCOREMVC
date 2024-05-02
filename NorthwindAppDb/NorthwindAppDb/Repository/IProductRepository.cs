@@ -12,5 +12,7 @@ namespace NorthwindAppDb.Repository
         //calling the procedure
          List<Ten_Most_Expensive_Products> GetMostExpensiveProducts();
 
+        Task<List<Product>> GetProducts();
+
     }
 }
