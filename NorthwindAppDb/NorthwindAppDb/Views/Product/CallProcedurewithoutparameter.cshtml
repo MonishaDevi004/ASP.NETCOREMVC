@@ -1,0 +1,14 @@
+﻿@model IEnumerable<NorthwindAppDb.Models.Ten_Most_Expensive_Products>
+@{
+    ViewData["Title"] = "CallProcedurewithoutparameter";
+}
+
+<h1>CallProcedurewithoutparameter</h1>
+
+@foreach(var item in Model)
+{
+    <li>@item.TenMostExpensiveProducts</li>
+    <li>@item.UnitPrice</li>
+    <br />
+}
+

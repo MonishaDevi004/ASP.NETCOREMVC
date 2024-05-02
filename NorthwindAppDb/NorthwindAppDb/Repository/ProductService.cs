@@ -1,5 +1,8 @@
 ﻿
+using Microsoft.EntityFrameworkCore;
 using NorthwindAppDb.Models;
+using NorthwindAppDb.ViewModel;
+using System.Collections.Generic;   
 
 namespace NorthwindAppDb.Repository
 {
@@ -11,14 +14,38 @@ namespace NorthwindAppDb.Repository
 
             _context = context;
         }
-        public async Task<dynamic> GetProductSupplier()
+        /*  public async Task<List<ProductSupplierVM>> GetProductSupplier()
+          {
+              dynamic ProductSupplierdata =  (from product in _context.Products join
+                                         supplier in _context.Suppliers on 
+                                         product.SupplierId equals supplier.SupplierId
+                                         select new {supplier.CompanyName ,product.ProductName,product.UnitPrice }).ToList();
+
+              List<ProductSupplierVM> productSupplierVMs = new List<ProductSupplierVM>();
+              productSupplierVMs.AddRange(ProductSupplierdata);
+
+
+              return ProductSupplierdata;
+          }*/
+
+
+        public dynamic GetProductSupplier()
         {
-            var ProductSupplierdata =  (from product in _context.Products join
-                                       supplier in _context.Suppliers on 
+            dynamic ProductSupplierdata = (from product in _context.Products
+                                           join
+                                       supplier in _context.Suppliers on
                                        product.SupplierId equals supplier.SupplierId
-                                       select new {supplier.CompanyName ,product.ProductName,product.UnitPrice }).ToList();
+                                           select new { supplier.CompanyName,product.ProductId, product.ProductName, product.UnitPrice }).ToList();
+
 
             return ProductSupplierdata;
+        }
+        //calling the stored procedure
+       public List<Ten_Most_Expensive_Products> GetMostExpensiveProducts()
+        {
+          List<Ten_Most_Expensive_Products> ten_Most_Expensive_Products =  _context.Ten_Most_Expensive_Products.FromSqlRaw("[dbo].[Ten Most Expensive Products]").ToList();
+            return ten_Most_Expensive_Products;
+        
         }
     }
 }

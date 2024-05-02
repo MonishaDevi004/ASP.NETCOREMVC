@@ -42,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Order/CallProcedurewithParameter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2FsbFByb2NlZHVyZXdpdGhQYXJhbWV0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Product/CallProcedurewithoutparameter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDYWxsUHJvY2VkdXJld2l0aG91dHBhcmFtZXRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OnlineTraining/BanuMam/NorthwindAppDb/NorthwindAppDb/Views/Product/GetProductSupplierDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0U3VwcGxpZXJEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,7 +1,15 @@
-﻿
+﻿@model IEnumerable<NorthwindAppDb.ViewModel.ProductSupplierVM>
 @{
     ViewData["Title"] = "GetProductSupplierDetails";
 }
 
 <h1>GetProductSupplierDetails</h1>
 
+@foreach(var item in Model)
+{
+    <li>CompanyName : @item.CompanyName</li>
+    <li>Product Id :@item.ProductId</li>
+    <li>ProductName: @item.ProductName</li>
+    <li>UnitPrice :@item.UnitPrice</li>
+    <br>
+}

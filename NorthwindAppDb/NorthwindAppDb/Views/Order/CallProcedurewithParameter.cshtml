@@ -1,0 +1,16 @@
+﻿@model IEnumerable<NorthwindAppDb.Models.CustOrdersOrders>
+@{
+    ViewData["Title"] = "CallProcedurewithParameter";
+}
+
+<h1>CallProcedurewithParameter</h1>
+
+@foreach(var item in Model)
+{
+    <li>@item.OrderId</li>
+    <li>@item.OrderDate</li>
+
+    <br />
+}
+
+
