@@ -3,6 +3,7 @@ using CodeFirstApproachCore.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CodeFirstApproachCore.Migrations
 {
     [DbContext(typeof(MedicineStoreContext))]
-    partial class MedicineStoreContextModelSnapshot : ModelSnapshot
+    [Migration("20240503064557_foreign key removed from medicinetype")]
+    partial class foreignkeyremovedfrommedicinetype
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

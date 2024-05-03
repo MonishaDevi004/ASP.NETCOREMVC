@@ -1,0 +1,50 @@
+﻿@model Medicine
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_OnlineMedicalLayout.cshtml";
+}
+
+<h1>Add Medicine</h1>
+
+<form method="post" asp-action="Create"  asp-controller="Medicine">
+    <div>
+        <label asp-for="MedicineName"></label>
+        <input asp-for="MedicineName"/>
+    </div>
+
+    <div>
+        <label asp-for="MedicineDescription"></label>
+        <input asp-for="MedicineDescription" />
+    </div>
+
+    <div>
+        <label asp-for="MedicinePrice"></label>
+        <input asp-for="MedicinePrice" />
+    </div>
+
+    <div>
+        <label asp-for="Quantity"></label>
+        <input asp-for="Quantity" />
+    </div>
+
+
+
+    <div>
+        <label asp-for="SupplierId"></label>
+
+        @* <select asp-for="Cid" asp-items="@(new SelectList(ViewBag.message,"Cid","Cname"))"></select> *@
+
+      @*   <select asp-for="SupplierId"  multiple="multiple" asp-items="@(new SelectList(ViewBag.Message,"SupplierId","Sname"))"></select> *@
+
+       @*  <select asp-for="SupplierId" asp-items="ViewBag.SupplierId" class="form-control">
+            <option value=""> --Select Supplier --</option>
+        </select> *@
+       
+    </div>
+
+    <div>
+        <input type="submit" value="Add" class="btn btn-danger"/>
+    </div>
+
+</form>
+

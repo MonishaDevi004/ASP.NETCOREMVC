@@ -9,25 +9,22 @@ using CodeFirstApproachCore.Models;
 
 namespace CodeFirstApproachCore.Controllers
 {
-    //Attribute Routing
-    //[Route("Supplier")]
-    public class MedicineSuppliersController : Controller
+    public class MedicinesController : Controller
     {
         private readonly MedicineStoreContext _context;
 
-        public MedicineSuppliersController(MedicineStoreContext context)
+        public MedicinesController(MedicineStoreContext context)
         {
             _context = context;
         }
 
-        //[Route("AllSupplier")]
-        // GET: MedicineSuppliers
+        // GET: Medicines
         public async Task<IActionResult> Index()
         {
-            return View(await _context.MedicineSupplier.ToListAsync());
+            return View(await _context.Medicines.ToListAsync());
         }
-        [Route("id/{id:int?}")]
-        // GET: MedicineSuppliers/Details/5
+
+        // GET: Medicines/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -35,43 +32,39 @@ namespace CodeFirstApproachCore.Controllers
                 return NotFound();
             }
 
-            var medicineSupplier = await _context.MedicineSupplier
-                .FirstOrDefaultAsync(m => m.SupplierId == id);
-            if (medicineSupplier == null)
+            var medicine = await _context.Medicines
+                .FirstOrDefaultAsync(m => m.MedicineId == id);
+            if (medicine == null)
             {
                 return NotFound();
             }
 
-            return View(medicineSupplier);
+            return View(medicine);
         }
 
-        // GET: MedicineSuppliers/Create
+        // GET: Medicines/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: MedicineSuppliers/Create
+        // POST: Medicines/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("SupplierId,SupplierName,ContactDetails")] MedicineSupplier medicineSupplier)
+        public async Task<IActionResult> Create([Bind("MedicineId,MedicineName,MedicineDescription,MedicinePrice,Quantity")] Medicine medicine)
         {
-
-           _context.Add(medicineSupplier);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-           /*  if (ModelState.IsValid)
-               {
-                   _context.Add(medicineSupplier);
-                   await _context.SaveChangesAsync();
-                   return RedirectToAction(nameof(Index));
-               }*/
-               return View(medicineSupplier);
+            if (ModelState.IsValid)
+            {
+                _context.Add(medicine);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(medicine);
         }
 
-        // GET: MedicineSuppliers/Edit/5
+        // GET: Medicines/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -79,22 +72,22 @@ namespace CodeFirstApproachCore.Controllers
                 return NotFound();
             }
 
-            var medicineSupplier = await _context.MedicineSupplier.FindAsync(id);
-            if (medicineSupplier == null)
+            var medicine = await _context.Medicines.FindAsync(id);
+            if (medicine == null)
             {
                 return NotFound();
             }
-            return View(medicineSupplier);
+            return View(medicine);
         }
 
-        // POST: MedicineSuppliers/Edit/5
+        // POST: Medicines/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("SupplierId,SupplierName,ContactDetails")] MedicineSupplier medicineSupplier)
+        public async Task<IActionResult> Edit(int id, [Bind("MedicineId,MedicineName,MedicineDescription,MedicinePrice,Quantity")] Medicine medicine)
         {
-            if (id != medicineSupplier.SupplierId)
+            if (id != medicine.MedicineId)
             {
                 return NotFound();
             }
@@ -103,12 +96,12 @@ namespace CodeFirstApproachCore.Controllers
             {
                 try
                 {
-                    _context.Update(medicineSupplier);
+                    _context.Update(medicine);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!MedicineSupplierExists(medicineSupplier.SupplierId))
+                    if (!MedicineExists(medicine.MedicineId))
                     {
                         return NotFound();
                     }
@@ -119,10 +112,10 @@ namespace CodeFirstApproachCore.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(medicineSupplier);
+            return View(medicine);
         }
 
-        // GET: MedicineSuppliers/Delete/5
+        // GET: Medicines/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -130,40 +123,34 @@ namespace CodeFirstApproachCore.Controllers
                 return NotFound();
             }
 
-            var medicineSupplier = await _context.MedicineSupplier
-                .FirstOrDefaultAsync(m => m.SupplierId == id);
-            if (medicineSupplier == null)
+            var medicine = await _context.Medicines
+                .FirstOrDefaultAsync(m => m.MedicineId == id);
+            if (medicine == null)
             {
                 return NotFound();
             }
 
-            return View(medicineSupplier);
+            return View(medicine);
         }
 
-        // POST: MedicineSuppliers/Delete/5
+        // POST: Medicines/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var medicineSupplier = await _context.MedicineSupplier.FindAsync(id);
-            if (medicineSupplier != null)
+            var medicine = await _context.Medicines.FindAsync(id);
+            if (medicine != null)
             {
-                _context.MedicineSupplier.Remove(medicineSupplier);
+                _context.Medicines.Remove(medicine);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool MedicineSupplierExists(int id)
+        private bool MedicineExists(int id)
         {
-            return _context.MedicineSupplier.Any(e => e.SupplierId == id);
-        }
-        //Route Constraint
-        [Route("{name:maxlength(6)}")]
-        public IActionResult GetSupplierByName(string name)
-        {
-            return View();
+            return _context.Medicines.Any(e => e.MedicineId == id);
         }
     }
 }

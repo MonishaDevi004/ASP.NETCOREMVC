@@ -11,7 +11,7 @@ namespace CodeFirstApproachCore.Models
 
         public string ContactDetails { get; set;}
 
-        [JsonIgnore]
-        public virtual ICollection<Medicine> Medicines { get; set; }
+     /*   [JsonIgnore]
+        public virtual ICollection<Medicine> Medicines { get; set; }*/
     }
 }

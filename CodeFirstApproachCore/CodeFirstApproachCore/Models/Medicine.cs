@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CodeFirstApproachCore.Models
 {
@@ -12,9 +13,10 @@ namespace CodeFirstApproachCore.Models
         public decimal MedicinePrice { get; set; }
 
         public int Quantity { get;set; }
-        
 
-        public virtual MedicineSupplier MedicineSupplier { get; set; }
+        [ForeignKey("Supplier")]
+        public int SupplierId { get; set; }
+        //public virtual MedicineSupplier MedicineSupplier { get; set; }
 
 
     }

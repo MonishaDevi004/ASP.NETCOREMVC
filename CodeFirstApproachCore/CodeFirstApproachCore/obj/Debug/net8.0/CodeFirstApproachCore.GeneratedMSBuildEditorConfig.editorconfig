@@ -50,12 +50,60 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVTdXBwbGllcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/MedicineSuppliers/GetSupplierByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVTdXBwbGllcnNcR2V0U3VwcGxpZXJCeU5hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/MedicineSuppliers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVTdXBwbGllcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Medicines/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Medicines/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Medicines/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Medicines/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Medicines/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Medicine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Medicine/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Shared/_CustomerPortalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lclBvcnRhbExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Shared/_MyNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NeU5hdkJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Shared/_OnlineMedicalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PbmxpbmVNZWRpY2FsTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/OnlineTraining/BanuMam/CodeFirstApproachCore/CodeFirstApproachCore/Views/Shared/_ValidationScriptsPartial.cshtml]

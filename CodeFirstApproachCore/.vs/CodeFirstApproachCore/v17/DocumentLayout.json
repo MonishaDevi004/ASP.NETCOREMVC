@@ -3,28 +3,76 @@
   "WorkspaceRootPath": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\controllers\\medicinesupplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\controllers\\medicinesupplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\shared\\_customerportallayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\shared\\_customerportallayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\models\\medicinetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\models\\medicinetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\shared\\_mynavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\shared\\_mynavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\models\\medicinestorecontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\models\\medicinestorecontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\medicinesuppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\medicinesuppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240502110229_supplier table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstApproachCore\\Migrations\\20240502110229_supplier table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\medicinesuppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\medicinesuppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\shared\\_onlinemedicallayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\shared\\_onlinemedicallayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\medicinesuppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\medicinesuppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\medicine\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\medicine\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\controllers\\medicinesupplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\controllers\\medicinesupplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\migrations\\20240503064557_foreign key removed from medicinetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\migrations\\20240503064557_foreign key removed from medicinetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\migrations\\20240503064210_foreign key supplierid removed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\migrations\\20240503064210_foreign key supplierid removed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240503061731_foreign key supplierid added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstApproachCore\\Migrations\\20240503061731_foreign key supplierid added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\views\\medicine\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\views\\medicine\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\models\\medicinestorecontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\models\\medicinestorecontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\migrations\\20240502105233_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +81,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|d:\\onlinetraining\\banumam\\codefirstapproachcore\\codefirstapproachcore\\migrations\\20240502110229_supplier table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5704A16A-506A-484C-9A0F-98A098FDD1C9}|CodeFirstApproachCore\\CodeFirstApproachCore.csproj|solutionrelative:codefirstapproachcore\\migrations\\20240502110229_supplier table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,38 +99,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MedicineSuppliersController.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
-              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
-              "RelativeToolTip": "CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAswD4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:06:37.981Z",
+              "Title": "_CustomerPortalLayout.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_CustomerPortalLayout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\Shared\\_CustomerPortalLayout.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_CustomerPortalLayout.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\Shared\\_CustomerPortalLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T08:08:58.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MedicineType.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Models\\MedicineType.cs",
-              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Models\\MedicineType.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Models\\MedicineType.cs",
-              "RelativeToolTip": "CodeFirstApproachCore\\Models\\MedicineType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T10:58:51.548Z",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\MedicineSuppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\MedicineSuppliers\\Index.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\MedicineSuppliers\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\MedicineSuppliers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T05:00:41.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Program.cs",
               "RelativeDocumentMoniker": "CodeFirstApproachCore\\Program.cs",
               "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Program.cs",
               "RelativeToolTip": "CodeFirstApproachCore\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T10:35:17.139Z",
               "EditorCaption": ""
@@ -86,6 +138,188 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T06:55:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T07:38:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T08:02:13.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MyNavBar.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_MyNavBar.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\Shared\\_MyNavBar.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_MyNavBar.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\Shared\\_MyNavBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T08:00:12.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\MedicineSuppliers\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\MedicineSuppliers\\Create.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\MedicineSuppliers\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\MedicineSuppliers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T05:03:20.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\MedicineSuppliers\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\MedicineSuppliers\\Details.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\MedicineSuppliers\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\MedicineSuppliers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T07:54:50.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Medicine\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\Medicine\\Create.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Medicine\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\Medicine\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCQAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T05:38:29.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Models\\Medicine.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Models\\Medicine.cs",
+              "RelativeToolTip": "CodeFirstApproachCore\\Models\\Medicine.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:37:48.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_OnlineMedicalLayout.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_OnlineMedicalLayout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\Shared\\_OnlineMedicalLayout.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Shared\\_OnlineMedicalLayout.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\Shared\\_OnlineMedicalLayout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T07:40:11.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedicineSuppliersController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
+              "RelativeToolTip": "CodeFirstApproachCore\\Controllers\\MedicineSuppliersController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:06:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240503064210_foreign key supplierid removed.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240503064210_foreign key supplierid removed.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Migrations\\20240503064210_foreign key supplierid removed.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240503064210_foreign key supplierid removed.cs",
+              "RelativeToolTip": "CodeFirstApproachCore\\Migrations\\20240503064210_foreign key supplierid removed.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:42:10.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240503064557_foreign key removed from medicinetype.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240503064557_foreign key removed from medicinetype.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Migrations\\20240503064557_foreign key removed from medicinetype.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240503064557_foreign key removed from medicinetype.cs",
+              "RelativeToolTip": "CodeFirstApproachCore\\Migrations\\20240503064557_foreign key removed from medicinetype.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:45:58.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240503061731_foreign key supplierid added.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240503061731_foreign key supplierid added.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Migrations\\20240503061731_foreign key supplierid added.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240503061731_foreign key supplierid added.cs",
+              "RelativeToolTip": "CodeFirstApproachCore\\Migrations\\20240503061731_foreign key supplierid added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:17:32.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Medicine\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Views\\Medicine\\Details.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Views\\Medicine\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCore\\Views\\Medicine\\Details.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T05:17:09.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "20240502110229_supplier table added.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240502110229_supplier table added.cs",
               "RelativeDocumentMoniker": "CodeFirstApproachCore\\Migrations\\20240502110229_supplier table added.cs",
@@ -93,25 +327,11 @@
               "RelativeToolTip": "CodeFirstApproachCore\\Migrations\\20240502110229_supplier table added.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:02:30.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T11:02:30.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Medicine.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Models\\Medicine.cs",
-              "RelativeDocumentMoniker": "CodeFirstApproachCore\\Models\\Medicine.cs",
-              "ToolTip": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Models\\Medicine.cs",
-              "RelativeToolTip": "CodeFirstApproachCore\\Models\\Medicine.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T10:37:48.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "MedicineStoreContext .cs",
               "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Models\\MedicineStoreContext .cs",
               "RelativeDocumentMoniker": "CodeFirstApproachCore\\Models\\MedicineStoreContext .cs",
@@ -119,12 +339,11 @@
               "RelativeToolTip": "CodeFirstApproachCore\\Models\\MedicineStoreContext .cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAYwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T10:39:36.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T10:39:36.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "20240502105233_Initial Migration.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\Migrations\\20240502105233_Initial Migration.cs",
               "RelativeDocumentMoniker": "CodeFirstApproachCore\\Migrations\\20240502105233_Initial Migration.cs",
@@ -132,12 +351,11 @@
               "RelativeToolTip": "CodeFirstApproachCore\\Migrations\\20240502105233_Initial Migration.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T10:52:33.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T10:52:33.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\CodeFirstApproachCore\\CodeFirstApproachCore\\appsettings.json",
               "RelativeDocumentMoniker": "CodeFirstApproachCore\\appsettings.json",
@@ -145,8 +363,7 @@
               "RelativeToolTip": "CodeFirstApproachCore\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T10:35:47.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T10:35:47.598Z"
             }
           ]
         }
