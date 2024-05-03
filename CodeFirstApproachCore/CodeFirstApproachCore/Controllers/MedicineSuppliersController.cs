@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CodeFirstApproachCore.Models;
+using CodeFirstApproachCore.Filters;
 
 namespace CodeFirstApproachCore.Controllers
 {
@@ -19,6 +20,8 @@ namespace CodeFirstApproachCore.Controllers
         {
             _context = context;
         }
+
+       //[WatchActionFliterAsyncDemo]
 
         //[Route("AllSupplier")]
         // GET: MedicineSuppliers

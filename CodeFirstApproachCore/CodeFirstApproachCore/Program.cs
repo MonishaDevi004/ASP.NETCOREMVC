@@ -1,11 +1,17 @@
+using CodeFirstApproachCore.Filters;
 using CodeFirstApproachCore.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews().AddNewtonsoftJson(options => 
-options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+                                        //global registration of filter
+builder.Services.AddControllersWithViews(options => options.Filters.Add<WatchActionFilter>()).AddNewtonsoftJson(options =>
+options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+) ;
+
+//builder.Services.AddControllersWithViews(options => options.Filters.Add<WatchActionFilter>());
+
 
 
 //Fetch the connection string from AppSetting.json file
@@ -20,9 +26,15 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Home/Error");
+
+    app.UseDeveloperExceptionPage();
+    //app.UseExceptionHandler("/Demo/Error");
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
+}
+else
+{
+    app.UseExceptionHandler("/Demo/Error");
 }
 
 app.UseHttpsRedirection();
@@ -34,6 +46,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=MedicineSuppliers}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

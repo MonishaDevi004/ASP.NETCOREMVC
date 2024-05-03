@@ -1,4 +1,5 @@
-﻿using CodeFirstApproachCore.Models;
+﻿using CodeFirstApproachCore.Filters;
+using CodeFirstApproachCore.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.CodeAnalysis.Options;
@@ -14,6 +15,8 @@ namespace CodeFirstApproachCore.Controllers
         
             this.context = context;
         }
+
+        [WatchActionFilter]
 
         //Get particular Medicine
         public IActionResult Details(int id)
