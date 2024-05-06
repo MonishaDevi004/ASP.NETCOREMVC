@@ -40,6 +40,9 @@ namespace CodeFirstApproachCore.Migrations
                     b.Property<decimal>("MedicinePrice")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<int>("MedicineSupplierSupplierId")
+                        .HasColumnType("int");
+
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
@@ -47,6 +50,8 @@ namespace CodeFirstApproachCore.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("MedicineId");
+
+                    b.HasIndex("MedicineSupplierSupplierId");
 
                     b.ToTable("Medicines");
                 });
@@ -70,6 +75,17 @@ namespace CodeFirstApproachCore.Migrations
                     b.HasKey("SupplierId");
 
                     b.ToTable("MedicineSupplier");
+                });
+
+            modelBuilder.Entity("CodeFirstApproachCore.Models.Medicine", b =>
+                {
+                    b.HasOne("CodeFirstApproachCore.Models.MedicineSupplier", "MedicineSupplier")
+                        .WithMany()
+                        .HasForeignKey("MedicineSupplierSupplierId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("MedicineSupplier");
                 });
 #pragma warning restore 612, 618
         }

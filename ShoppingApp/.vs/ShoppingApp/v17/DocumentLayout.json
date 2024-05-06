@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\repository\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\repository\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\shoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\shoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Migrations\\20240506044023_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingApp\\Migrations\\20240506044023_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\models\\shoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\models\\shoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|d:\\onlinetraining\\banumam\\shoppingapp\\shoppingapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44026FFE-DBA5-49F0-A077-11832F5F519B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:00:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Repository\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Repository\\ProductService.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Repository\\ProductService.cs",
+              "RelativeToolTip": "ShoppingApp\\Repository\\ProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:57:20.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ShoppingApp\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:53:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingApp",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\ShoppingApp.csproj",
+              "RelativeDocumentMoniker": "ShoppingApp\\ShoppingApp.csproj",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\ShoppingApp.csproj",
+              "RelativeToolTip": "ShoppingApp\\ShoppingApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T04:51:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Program.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Program.cs",
+              "RelativeToolTip": "ShoppingApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:36:23.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Models\\Product.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:31:08.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ShoppingApp\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "ShoppingApp\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:10:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Controllers\\SuppliersController.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "ShoppingApp\\Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:47:22.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240506044023_Initial.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Migrations\\20240506044023_Initial.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Migrations\\20240506044023_Initial.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Migrations\\20240506044023_Initial.cs",
+              "RelativeToolTip": "ShoppingApp\\Migrations\\20240506044023_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:40:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingApp\\appsettings.json",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\appsettings.json",
+              "RelativeToolTip": "ShoppingApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T04:36:26.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingDbContext.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Models\\ShoppingDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Models\\ShoppingDbContext.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Models\\ShoppingDbContext.cs",
+              "RelativeToolTip": "ShoppingApp\\Models\\ShoppingDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:34:34.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Models\\Supplier.cs",
+              "ToolTip": "D:\\OnlineTraining\\BanuMam\\ShoppingApp\\ShoppingApp\\Models\\Supplier.cs",
+              "RelativeToolTip": "ShoppingApp\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:29:59.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

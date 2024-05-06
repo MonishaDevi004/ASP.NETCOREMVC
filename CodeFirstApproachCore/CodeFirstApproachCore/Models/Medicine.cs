@@ -16,7 +16,8 @@ namespace CodeFirstApproachCore.Models
 
         [ForeignKey("Supplier")]
         public int SupplierId { get; set; }
-        //public virtual MedicineSupplier MedicineSupplier { get; set; }
+
+        public virtual MedicineSupplier MedicineSupplier { get; set; }
 
 
     }

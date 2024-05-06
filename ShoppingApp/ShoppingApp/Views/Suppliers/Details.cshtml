@@ -1,0 +1,30 @@
+﻿@model ShoppingApp.Models.Supplier
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Supplier</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SupplierName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SupplierName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SupplierDescription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SupplierDescription)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.SupplierId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
